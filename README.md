@@ -2,4 +2,17 @@ A Vulnerability Assessment and Penetration Testing (VAPT) report provides an in-
 
 
 There are 7 web application VAPT reports available: testphp.vulnweb.com, owasp juice_shop, petstore_swagger_api, altoro mutual, zero bank, jpet_shop, and Demoblaze.
-Testphp.vulnweb.com : http://testphp.vulnweb.com/ , [owasp juice_shop ](https://juice-shop.herokuapp.com/) , [petstore_swagger_api](https://petstore.swagger.io/#/) , [altoro mutual](http://altoro.testfire.net/) , [zero bank](http://zero.webappsecurity.com/admin) , [jpet_shop](https://petstore.octoperf.com/) , [Demoblaze](https://www.demoblaze.com/)
+
+Testphp.vulnweb.com : http://testphp.vulnweb.com/
+
+Owasp juice_shop : https://juice-shop.herokuapp.com/  
+
+Petstore_swagger_api : https://petstore.swagger.io/#/ 
+
+Altoro mutual : http://altoro.testfire.net/
+
+Zero bank : http://zero.webappsecurity.com/admin 
+
+Jpet_shop : https://petstore.octoperf.com/ 
+
+Demoblaze : https://www.demoblaze.com/
